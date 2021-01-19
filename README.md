@@ -7,7 +7,8 @@
 - 📫 How to reach me:
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
-  
+
+## Personal Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=insurance-cross-sell-prediction&theme=dark)](https://github.com/olini/insurance-cross-sell-prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=sales-prediction-ds-em-producao&theme=dark)](https://github.com/olini/sales-prediction-ds-em-producao)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=youtube-video-recommender&theme=dark)](https://github.com/olini/youtube-video-recommender)

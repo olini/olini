@@ -8,4 +8,4 @@
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olini)](https://github.com/olini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olini&theme=dark)](https://github.com/olini/github-readme-stats)

@@ -9,3 +9,5 @@
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=insurance-cross-sell-prediction)](https://github.com/olini/insurance-cross-sell-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=sales-prediction-ds-em-producao)](https://github.com/olini/sales-prediction-ds-em-producao)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=youtube-video-recommender)](https://github.com/olini/youtube-video-recommender)

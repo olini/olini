@@ -8,4 +8,4 @@
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olini&theme=dark)](https://github.com/olini/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=insurance-cross-sell-prediction)](https://github.com/olini/insurance-cross-sell-prediction)

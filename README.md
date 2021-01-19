@@ -5,5 +5,5 @@
 - :man_technologist: I’m currently working at LafargeHolcim as a Business Intelligence Analyst
 - :computer: I’m currently learning Data Science and Machine Learning through hands-on projects
 - 📫 How to reach me:
- - :briefcase: [LinkedIn] (https://www.linkedin.com/in/lucasolini/)
- - :incoming_envelope: [Email] (lucasolini96@gmail.com
+  - :briefcase: [LinkedIn] (https://www.linkedin.com/in/lucasolini/)
+  - :incoming_envelope: [Email] (lucasolini96@gmail.com

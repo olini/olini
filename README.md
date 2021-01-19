@@ -6,4 +6,4 @@
 - :computer: I’m currently learning Data Science and Machine Learning through hands-on projects
 - 📫 How to reach me:
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
-  - :incoming_envelope: [Email](lucasolini96@gmail.com)
+  - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)

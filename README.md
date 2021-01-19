@@ -7,3 +7,5 @@
 - 📫 How to reach me:
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=olini&theme=top-langs" />

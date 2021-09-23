@@ -12,3 +12,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=sales-prediction-ds-em-producao&theme=dark)](https://github.com/olini/sales-prediction-ds-em-producao)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=controle-financas&theme=dark)](https://github.com/olini/controle-financas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=youtube-video-recommender&theme=dark)](https://github.com/olini/youtube-video-recommender)
+
+#### :books: Studies:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=airflow-studies&theme=dark)](https://github.com/olini/airflow-studies)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=alura-ds-series-temporais&theme=dark)](https://github.com/olini/alura-ds-series-temporais)

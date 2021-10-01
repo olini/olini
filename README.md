@@ -10,7 +10,7 @@
 
 #### :computer: Personal Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=sales-prediction-ds-em-producao&theme=dark)](https://github.com/olini/sales-prediction-ds-em-producao)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=controle-financas&theme=dark)](https://github.com/olini/controle-financas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=personal-finance-management&theme=dark)](https://github.com/olini/personal-finance-management)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=youtube-video-recommender&theme=dark)](https://github.com/olini/youtube-video-recommender)
 
 #### :books: Studies:

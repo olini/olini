@@ -8,4 +8,4 @@
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
 
-#### 📚 Below on Pinned repos, you can find my Personal Projects and Studies:
+#### 📚 Below on Pinned repositories, you can find my Personal Projects and Studies:

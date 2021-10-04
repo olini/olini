@@ -8,11 +8,4 @@
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/lucasolini/)
   - :incoming_envelope: [Email](mailto:lucasolini96@gmail.com)
 
-#### :computer: Personal Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=sales-prediction-ds-em-producao&theme=dark)](https://github.com/olini/sales-prediction-ds-em-producao)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=personal-finance-management&theme=dark)](https://github.com/olini/personal-finance-management)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=youtube-video-recommender&theme=dark)](https://github.com/olini/youtube-video-recommender)
-
-#### :books: Studies:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=airflow-studies&theme=dark)](https://github.com/olini/airflow-studies)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olini&repo=alura-ds-series-temporais&theme=dark)](https://github.com/olini/alura-ds-series-temporais)
+##### 📚 Below you can find my Personal Projects and Studies repos:
